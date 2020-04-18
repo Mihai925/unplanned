@@ -1,0 +1,24 @@
+{
+  "name": "unplanned",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihai925/unplanned.git"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "generator"
+  ],
+  "author": "Mihai Jiplea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mihai925/unplanned/issues"
+  },
+  "homepage": "https://github.com/Mihai925/unplanned#readme"
+}
